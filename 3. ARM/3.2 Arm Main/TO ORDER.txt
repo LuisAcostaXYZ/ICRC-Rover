@@ -1,0 +1,16 @@
+McMaster Carr:
+96640A362
+90128A942
+91290A140_Black-Oxide Alloy Steel Socket Head Screw
+91780A082_Female Threaded Hex Standoff
+91780A086_Female Threaded Hex Standoff
+92375A410_Hairpin Cotter Pin
+98410A133_External Retaining Ring
+1327K68
+1346K38
+6389K627 P-005
+6389K559 P-007
+	
+
+Firgelli Automations:
+FA-OS-240-12-6
